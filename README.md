@@ -29,4 +29,4 @@ label_a label_b path2
 In the above format, label_a is either “truthful” or “deceptive”, label_b is either “positive” or “negative”, and pathn is the path of the text file being classified.
 
 # Results
-Best-case accuracy for vanilla percpetron is 87.33% and averaged percpetron is 87.95% in classifying test data calculated using mean F1 measure for all classes.
+Best-case accuracy for vanilla perceptron is 87.33% and averaged perceptron is 87.95% in classifying test data calculated using mean F1 measure for all classes.
